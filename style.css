@@ -1,18 +1,19 @@
-h1{
-    font-size: 4rem;
-    margin-bottom: 0;
-    text-align: center;
-    padding: 20px 500px;
-    background-color: red;
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+  text-align: center;
+  padding: 20px 500px;
+  background-color: red;
 }
 
-img{
-    display: block;
+img {
+  font-size: 4rem;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 
-main{
-    background-color: #EEEEEE;
+main {
+  background-color: #eee;
 }
